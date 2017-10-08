@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/matmunn/coinspot-api-promises/issues",
     "email": "mat@matmunn.me"
+  },
+  "dependencies": {
+    "axios": "^0.16.2"
   }
 }
