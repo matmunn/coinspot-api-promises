@@ -1,6 +1,6 @@
 {
   "name": "coinspot-api-promises",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "coinspot.com.au API client for node.js using promises",
   "keywords": [
     "btc",

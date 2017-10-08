@@ -9,7 +9,7 @@ function coinspot(key, secret) {
     const request = (path, postdata) => {
         const nonce = new Date().getTime()
 
-        let postdata = postdata || {}
+        postdata = postdata || {}
         postdata.nonce = nonce
 
         let stringmessage = JSON.stringify(postdata)
